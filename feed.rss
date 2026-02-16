@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>용강동 퀵서비스 | 24시 에이플러스 신속한 배송</title>
+  <link>https://yonggang.8222quick.com/</link>
+  <description>용강동 전지역 24시 실시간 배차 시스템, 신속한 배송 원칙</description>
+  <language>ko-KR</language>
+  <pubDate>Sun, 15 Feb 2026 22:00:00 +0900</pubDate>
+  <lastBuildDate>Sun, 15 Feb 2026 22:00:00 +0900</lastBuildDate>
+  <atom:link href="https://yonggang.8222quick.com/rss.xml" rel="self" type="application/rss+xml" />
+
+  <item>
+    <title>용강동 퀵서비스 신속한 배송 안내</title>
+    <link>https://yonggang.8222quick.com/index.html</link>
+    <description>용강동 전지역 오토바이, 다마스, 라보 퀵서비스. 24시간 신속한 배송을 보장합니다.</description>
+    <category>퀵서비스</category>
+    <pubDate>Sun, 15 Feb 2026 22:00:00 +0900</pubDate>
+    <guid>https://yonggang.8222quick.com/index.html</guid>
+  </item>
+
+  <item>
+    <title>용강동 퀵서비스 차종별 요금 및 결제 안내</title>
+    <link>https://yonggang.8222quick.com/money.html</link>
+    <description>오토바이, 다마스, 라보 합리적인 요금 안내. 카드 결제 및 법인 계산서 발행 지원하며 신속한 배송을 원칙으로 합니다.</description>
+    <category>요금안내</category>
+    <pubDate>Sun, 15 Feb 2026 22:00:00 +0900</pubDate>
+    <guid>https://yonggang.8222quick.com/money.html</guid>
+  </item>
+</channel>
+</rss>

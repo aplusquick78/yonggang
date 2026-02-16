@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yonggang.8222quick.com/sitemap.xml
+
+
+
